@@ -1,0 +1,26 @@
+// start of script.js
+
+let adjective = "red";
+let noun = "dragon";
+let verb = "flying";
+let place = "cave";
+let adjective2 = "big";
+let noun2 = "sheeps";
+
+const firstStory = "Once upon a time, there was a(n) " + adjective + " " + noun + " who loved to eat " + noun2 + "." + " The " + noun + " lived in a " + place + " and had " + adjective2 + " nostrils that blew fire when it was " + verb + ".";
+
+console.log("First story: " + firstStory)
+
+adjective = "big";
+noun = "bear";
+verb = "sneezing";
+place = "forest";
+adjective2 = "red";
+noun2 = "honey";
+
+const secondStory = "Once upon a time, there was a(n) " + adjective + " " + noun + " who loved to eat " + noun2 + "." + " The " + noun + " lived in a " + place + " and had " + adjective2 + " nostrils that blew fire when it was " + verb + ".";
+
+console.log("Second story: " + secondStory)
+
+// end of script.js
+
